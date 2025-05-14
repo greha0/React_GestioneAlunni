@@ -1,8 +1,6 @@
 .cont{
-  position: fixed;
-  top: 0;
   background-color: white;
-  border: 1px solid red;
+  border-bottom: 0.1rem solid gray;
   width: 100%;
   height: fit-content;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
