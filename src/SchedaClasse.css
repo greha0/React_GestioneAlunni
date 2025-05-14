@@ -1,0 +1,13 @@
+.contScheda{
+    background-color: white;
+    width: 100%;
+    position: fixed;
+    height:fit-content;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.5rem;
+}
+
+.grassetto{
+    font-weight: bold;
+}

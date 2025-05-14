@@ -1,0 +1,28 @@
+.cont{
+  position: fixed;
+  top: 0;
+  background-color: white;
+  border: 1px solid red;
+  width: 100%;
+  height: fit-content;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titolo{
+  text-align: center;
+  background-color: rgb(241, 43, 43);
+  padding: 0.5rem;
+  width: 100%;
+  height: fit-content;
+}
+
+.cont-notifiche{
+  width: fit-content;
+  margin-left: 1rem;
+  color: black;
+}
+
+.num{
+  color: red;
+  font-weight: bold;
+}
